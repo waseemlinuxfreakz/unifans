@@ -1,0 +1,35 @@
+{
+  "Header": {
+    "title": "Helping Students",
+    "subTitle":"Through Their",
+    "childSubTitle":"Hardest Times",
+    "allCreators":"All creators are verified university students",
+    "searchUniversity":"Search by University",
+    "signUpFan":"Sign up as a fan",
+    "signUpCreator":"Sign up as a content creator"
+  },
+  "Auth":{
+    "login":"Login"
+  },
+  "Footer":{
+    "lang":"English",
+    "pages":"Pages",
+    "about":"About",
+    "contact":"Contact",
+    "termsOfService":"Terms of Service",
+    "dmca":"DMCA",
+    "help":"Help",
+    "store":"Store",
+    "cookieNotice":"Cookie Notice",
+    "antiSlavery":"Anti-Slavery",
+    "others":"Others",
+    "blog":"Blog",
+    "privacy":"Privacy",
+    "usc":"USC2257",
+    "fanAndCreator":"Fan and Creator",
+    "branding":"Branding",
+    "complaintsPolicy":"Complaints Policy",
+    "standardContractBetween":"Standard Contract Between",
+    "acceptableUsePolicy":"Acceptable Use Policy"
+  }
+}

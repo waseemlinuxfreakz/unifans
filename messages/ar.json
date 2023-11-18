@@ -1,0 +1,36 @@
+{
+  "Header": {
+    "title": "مساعدة الطلاب",
+    "subTitle":"من خلال لهم",
+    "childSubTitle": "أصعب الأوقات",
+    "allCreators":"جميع المبدعين هم طلاب جامعيون تم التحقق منهم",
+    "searchUniversity":"البحث حسب الجامعة",
+        "signUpFan":"قم بالتسجيل كمروحة",
+    "signUpCreator":"قم بالتسجيل كمنشئ محتوى"
+
+  },
+  "Auth":{
+    "login":"تسجيل الدخول"
+  },
+  "Footer":{
+    "lang":"عربي",
+    "pages":"الصفحات",
+    "about":"عن",
+    "contact":"اتصال",
+    "termsOfService":"شروط الخدمة",
+    "dmca":"DMCA",
+    "help":"يساعد",
+    "store":"محل",
+    "cookieNotice":"إشعار ملفات تعريف الارتباط",
+    "antiSlavery":"مكافحة العبودية",
+    "others":"آحرون",
+    "blog":"مدونة",
+    "privacy":"خصوصية",
+    "usc":"USC2257",
+    "fanAndCreator":"معجب ومبدع",
+    "branding":"العلامة التجارية",
+    "complaintsPolicy":"سياسة الشكاوى",
+    "standardContractBetween":"العقد القياسي بين",
+    "acceptableUsePolicy":"سياسة الاستخدام المقبول"
+  }
+}
