@@ -1,5 +1,7 @@
 import { useTranslations } from 'next-intl';
 import React from 'react';
+import LoginModal from "./LoginModal";
+import SignUpModal from "./SignUpModal";
 
 function Header() {
       const t = useTranslations("Auth");
@@ -17,7 +19,9 @@ function Header() {
                             <a href="#" className='fan'>Fan</a>
                             <a href="#" className='contentCreator'>Content Creator</a>
                         </div> */}
-                        <a href="#" className='login'>{t("login")}</a>
+                        {/* <a href="#" className='login'>{t("login")}</a> */}
+                        <LoginModal/>
+                        <SignUpModal/>
                     </div>
                 </div>
             </div>

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./graphik-font/graphik-font.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "./globals.css";
 import { notFound } from "next/navigation";
 
